@@ -1,0 +1,45 @@
+local args = {
+    [1] = "Reward1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Reward2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Reward3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Reward5"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Reward6"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Reward7"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Reward9"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Reward10"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
+local args = {
+    [1] = "Rewar11"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gifts"):WaitForChild("GiveReward"):FireServer(unpack(args))
